@@ -13,8 +13,9 @@ My name is Sharon Moran. I am a current Data Science student at Lambda School.
 
 
 ### Interests
----
+
 -Creating and refining machine learning models for Numerai Data Science tournament
--Chess
--Knitting
+- Chess
+- Knitting
 -Exploring cryptocurrency market and blockchain use cases
+
