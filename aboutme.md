@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Sharon Moran
+subtitle: Data Science Student-Greater Philadelphia Area
 ---
+-Lambda School Data Science Program(current)
+- M.Ed. (2001)
+- B.S. in Psychology with a minor in Philosophy(1999)
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sharon Moran. I am a current Data Science student at Lambda School.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Interests
+-Creating and refining machine learning models for Numerai Data Science tournament
+-Chess
+-Knitting
+-Cryptocurrency market
