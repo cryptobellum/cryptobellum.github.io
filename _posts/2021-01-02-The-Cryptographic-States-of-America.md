@@ -1,3 +1,4 @@
+---
 layout: post
 title: The Cryptographic States of America
 subtitle: A Look at Bitcoin ATM Locations Across the Nation
@@ -5,3 +6,4 @@ gh-repo: https://github.com/cryptobellum/DS-Unit-1-Build
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
+---
