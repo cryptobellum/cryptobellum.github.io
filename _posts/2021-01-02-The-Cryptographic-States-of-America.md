@@ -11,4 +11,4 @@ comments: true
 
 ![Crepe](https://github.com/cryptobellum/DS-Unit-1-Build/blob/main/cryptographic-states-image.png)
 
-<img src="cryptographic-states-image.png">
+<img src="https://github.com/cryptobellum/DS-Unit-1-Build/blob/main/cryptographic-states-image.png">
