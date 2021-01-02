@@ -7,3 +7,4 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+**Here is some bold text**
