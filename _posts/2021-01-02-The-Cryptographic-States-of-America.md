@@ -6,4 +6,4 @@ gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-**I'm really looking forward to tomorrow night when I finally get to present my project findings to my part-time Data Science Cohort. I looked at the distribution of freestanding, cash-only Bitcoin ATMs located in the U.S. Here is a link to the corresponding blog post for this project. https://medium.com/@Cryptobellum/the-cryptographic-states-of-america-ebe94659cb6**
+**I'm really looking forward to tomorrow night when I finally get to present my project findings to my part-time Data Science Cohort. I looked at the distribution of freestanding, cash-only Bitcoin ATMs located in the U.S. Here is a link to the corresponding blog post for this project. "https://medium.com/@Cryptobellum/the-cryptographic-states-of-america-ebe94659cb6"**
